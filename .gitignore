@@ -96,3 +96,4 @@ ENV/
 clickhouse_driver/bufferedreader.c
 clickhouse_driver/bufferedwriter.c
 clickhouse_driver/columns/largeint.c
+clickhouse_driver/varint.c
